@@ -2,7 +2,7 @@
 
 Automatic rebuild and reload config required on each config file.
 
-The script will automate this.</b>
+The script will automate below task.</b>
 
 Running on Microsoft Windows<br>
 

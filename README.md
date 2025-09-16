@@ -1,4 +1,4 @@
-<b>For the local podman installation
+<b>For the Windows local podman installation
 
 Automatic rebuild and reload config required on each config file.
 

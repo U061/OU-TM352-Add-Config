@@ -3,7 +3,7 @@
 Automatic rebuild and reload config required on each config file.
 
 
-Open terminal and simply run the command below.
+On your podman open new terminal (CTRL + SHIFT + C)  and simply run the command below.
 
 ```
 curl -sL https://raw.githubusercontent.com/U061/OU-TM352-Add-Config/refs/heads/main/add-config.sh | bash
